@@ -1,0 +1,50 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #bdf0da;
+}
+
+header {
+    background-color: #1ee58b;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Services Section */
+#services {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.service {
+    background-color: #f6f0f0;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 5px;
+    width: calc(33.33% - 20px);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.images img {
+    width: 400px;
+    height: 500px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    
+}
+
+.service h2 {
+    margin-top: 10px;
+}
+
+.service p {
+    margin: 10px 0;
+}
