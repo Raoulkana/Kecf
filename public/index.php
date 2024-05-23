@@ -11,8 +11,8 @@ require_once __DIR__ . '/inc/header.php'; ?>
             <div class="col-md-6 rk-desc">
                 <h1 class="text capitalize py-3 dancing script">
                 <strong>PRÉSENTATION DU ZOO ARCADIA:</strong>
-                    <p>Arcadia est un zoo situé en france près de la Forêt de Brocéliande, en bretagne deppuis 1960.
-                    Ils possèdent tout un panel d'annimaux, reparti par habitats.
+                    <p>Arcadia est un zoo situé en france près de la Forêt de Brocéliande, en bretagne dépuis 1960.
+                    Il possède tout un panel d'animaux, reparti par habitats.
                     Chaque jour, plusieurs vétérinaires viennent afin d'effectuer les Contrôles
                     sur chaque animal avant l'ouverture du zoo pour s'assurer que tout se passe bien.
                     </p>
@@ -62,9 +62,9 @@ require_once __DIR__ . '/inc/header.php'; ?>
                     Au sein du zoo ARCADIA, vous trouverez une variété d'animaux fascinants provenant du monde entier.
                     Voici quelques exemples d'animaux que vous pourriez rencontrer lors de votre visite :
                     <ol>
-                        <li>Les Mammifères</li>b
+                        <li>Les Mammifères</li>
                         <li>Les Oiseaux</li>
-                        <li>Les Reptiles et Animaux Marins </li>
+                        <li>Les Reptiles et Les Animaux Marins </li>
                         <li>Les Amphibiens</li>
                         <li>Les Invertébrés</li>
                     </ol>
@@ -113,7 +113,7 @@ require_once __DIR__ . '/inc/header.php'; ?>
                 <h5 class="card-title">
                     <strong>LES DIFFÉRENTS SERVICES</strong>
                 </h5>
-                <p class="card-text">Le zoo offrent une variété de services pour améliorer l'expérience
+                <p class="card-text">Le zoo offre une variété de services pour améliorer l'expérience
                     des visiteurs et assurer le bien-être des animaux. Voici quelques-uns des services
                     typique que vous pourriez trouver chez nous :
                     <ol>
@@ -141,7 +141,7 @@ require_once __DIR__ . '/inc/header.php'; ?>
         <div class="review-name">GRACE</div>
         <div class="review-rating">★★★★☆</div>
         <div class="review-text">J'ai vraiment apprécié ma viste au zoo, les animaux semblaient en bonne santé
-            et les étaient bien entretenus.
+            et ils étaient bien entretenus.
         </div>
 
         </div>
